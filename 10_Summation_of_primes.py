@@ -1,10 +1,4 @@
 """
-#EN
-The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
-
-Find the sum of all the primes below two million.
-
-#TR
 10'un altındaki asal sayıların toplamı 2 + 3 + 5 + 7 = 17.
 
 İki milyonun altındaki tüm asal sayıların toplamını bulun.

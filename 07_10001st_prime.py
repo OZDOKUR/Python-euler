@@ -1,10 +1,4 @@
 """
-#EN
-By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
-
-What is the 10001st prime number?
-
-#TR
 İlk altı asal sayıyı listeleyerek: 2, 3, 5, 7, 11, ve 13, 6. asalın 13 olduğunu görebiliriz.
 
 10001. asal sayı nedir?

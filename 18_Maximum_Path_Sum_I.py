@@ -1,3 +1,11 @@
+"""
+Aşağıdaki üçgenin tepesinden başlayıp aşağıdaki satırdaki bitişik sayılara doğru ilerleyerek yukarıdan aşağıya maksimum toplam 23 olur.
+    3
+   7 4
+  2 4 6
+ 8 5 9 3
+Üçgenin yukarıdan aşağıya maksimum toplamını bulun.
+"""
 def maxPathSum(triangle):
     n = len(triangle)
     dp = [[0] * (i+1) for i in range(n)]

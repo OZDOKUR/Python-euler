@@ -1,3 +1,7 @@
+"""
+2x2'lik bir gridin sol üst köşesinden başlayıp sadece sağa ve aşağıya doğru hareket edebilen, sağ alt köşeye giden tam 6 yol var.
+20 × 20'lik bir ızgarada bu şekilde kaç tane rota vardır?
+"""
 def factorialOfTheSum(factorNum):
     if factorNum == 0 or factorNum == 1:
         return 1
